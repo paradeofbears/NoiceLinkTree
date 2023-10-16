@@ -1,5 +1,5 @@
 export const config = {
-    avatar: 'https://avatars.githubusercontent.com/u/68690233',
+    avatar: 'https://avatars.githubusercontent.com/u/9091130',
     bgColor: '#18181b',
     textColor: '#d4d4d8',
     iconColor: '#d4d4d8',
